@@ -31,13 +31,10 @@
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC1PPkvMeh6nQwJiNlh2mJ3A)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC1PPkvMeh6nQwJiNlh2mJ3A)
 &nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_ynjsk#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_ynjsk#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/_ynjsk)
 
 
 [webdev]: https://github.com/ajisakasiddiq/ajisakasiddiq
