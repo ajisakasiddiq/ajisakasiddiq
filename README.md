@@ -21,7 +21,7 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="40px" src="https://static.javatpoint.com/core/images/java-logo1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="40px" src="http://www.w3.org/2000/svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JS" width="40px" src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;" />][webdev]
 
 
 <br />
@@ -30,8 +30,8 @@
 ---
 ### Connect with me:
 
-[![website](/img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](/img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/)
@@ -40,4 +40,4 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/ajisakasiddiq/ajisakasiddiq
