@@ -1,4 +1,4 @@
-# Hi there, I'm Ajisaka siddiq - aka [AjisakaSiddiq](https://www.youtube.com/channel/UC1PPkvMeh6nQwJiNlh2mJ3A) 👋
+# Hi there, I'm Ajisaka siddiq - aka [Ajisaka](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/) 👋
 ## About me:
 - 🔭 I’m currently working at [~](#)
 - 🌱 I’m currently learning Software Engineer
@@ -9,9 +9,9 @@
 
 ## Education:
 
-#### 1. [Politeknik Negeri Jember](https://polije.ac.id/) | Bachelor of Electrical Engineering | Jember `2021-now`
+#### 1. [Politeknik Negeri Jember](https://polije.ac.id/) | Diploma of Informatics Management | Jember `2021-NOW`
 
- #### 2. [SMAN Balung](https://www.sman1balung.sch.id/) | MIPA | Balung-Jember `2019-2021`
+#### 2. [SMAN Balung](https://www.sman1balung.sch.id/) | MIPA | Balung-Jember `2019-2021`
 
 
 
