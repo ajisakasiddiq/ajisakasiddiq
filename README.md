@@ -34,7 +34,7 @@
 &nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajisaka-siddiq-a32a4a225/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_ynjsk)
+[![website](./img/instagram-light.svg)](https://instagram.com/ynjsk_)
 
 
 [webdev]: https://github.com/ajisakasiddiq/ajisakasiddiq
